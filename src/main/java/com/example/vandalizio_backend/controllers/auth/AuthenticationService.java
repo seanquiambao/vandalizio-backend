@@ -1,6 +1,6 @@
 package com.example.vandalizio_backend.controllers.auth;
 
-import com.example.vandalizio_backend.config.JwtService;
+import com.example.vandalizio_backend.config.auth.JwtService;
 import com.example.vandalizio_backend.enums.user.Role;
 import com.example.vandalizio_backend.model.user.User;
 import com.example.vandalizio_backend.repositories.user.UserRepository;

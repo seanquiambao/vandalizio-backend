@@ -1,4 +1,4 @@
-package com.example.vandalizio_backend.config;
+package com.example.vandalizio_backend.config.auth;
 
 import com.example.vandalizio_backend.repositories.user.UserRepository;
 import lombok.RequiredArgsConstructor;

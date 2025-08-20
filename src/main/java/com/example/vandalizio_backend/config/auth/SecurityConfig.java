@@ -1,4 +1,4 @@
-package com.example.vandalizio_backend.config;
+package com.example.vandalizio_backend.config.auth;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

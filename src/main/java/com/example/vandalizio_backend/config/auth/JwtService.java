@@ -1,4 +1,4 @@
-package com.example.vandalizio_backend.config;
+package com.example.vandalizio_backend.config.auth;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
